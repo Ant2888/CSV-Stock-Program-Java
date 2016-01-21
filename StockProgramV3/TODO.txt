@@ -1,0 +1,17 @@
+add multiselection with right click view to input intervals for the grapher
+	->listview too
+
+develop on dataviewnode (needs comparisons i.e- % deviations and such)
+
+develop the currently unhandled menubar options
+
+want css
+want to redo into FXML --not really essential but good learning experience
+
+practice with parallelizing corners of this program
+	(most of the overhead that comes with the parallelizing
+	will definitely make it not worth it but it's something 
+	I definitely want to be comfortable with doing since
+	when we get to REAL big data I'll want that tool set)
+also learn to minimize the overhead in parallelizing it
+
